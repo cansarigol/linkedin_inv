@@ -1,5 +1,6 @@
-LinkedIn Invitation Bot
+# LinkedIn Invitation Bot
 
+## Usage
 1- Create database and execute "app_user.sql" file for table user table. (dbname = linkedininv_db, username=postgres, password=postgres)
 
 2- install node modules
