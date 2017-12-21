@@ -1,0 +1,38 @@
+{
+  "name": "linkedin_inv",
+  "version": "1.0.0",
+  "description": "linkedin_inv",
+  "engines": {
+    "node": "6.11.2",
+    "npm": "3.10.10"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "xmlhttprequest": "1.8.0",
+    "express": "4.15.2",
+    "nodemailer": "4.0.1",
+    "pg": "7.1.2",
+    "connect-timeout": "1.9.0"
+  },
+  "devDependencies": {
+    "request": "^2.81.0",
+    "tape": "^4.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cansarigol/linkedin_inv.git"
+  },
+  "keywords": [
+    "linkedin",
+    "invite"
+  ],
+  "author": "Can Sarıgöl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cansarigol/linkedin_inv/issues"
+  },
+  "homepage": "https://github.com/cansarigol/linkedin_inv#readme"
+}
