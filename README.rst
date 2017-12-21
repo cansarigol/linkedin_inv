@@ -4,7 +4,7 @@ LinkedIn Invitation Bot
 
 2- install node modules
 
-3- run node.js
+3- run nodejs
 
 4- Login 
    e.g. http://localhost:5000/login?email=xxx@gmail.com&password=ppp
